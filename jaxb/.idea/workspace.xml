@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f51113c3-4e70-45ff-8704-d5bbbb68fc45" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1aCz7VERXxoiSd1AcPBxlLkuJne" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/jaxb-example-master" />
+  </component>
+  <component name="RunManager">
+    <configuration name="[]" type="MavenRunConfiguration" factoryName="Maven" nameIsGenerated="true">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list />
+            </option>
+            <option name="pomFileName" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$/jaxb-example-master" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="MavenRunConfiguration" factoryName="Maven">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list />
+            </option>
+            <option name="pomFileName" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$/jaxb-example-master" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f51113c3-4e70-45ff-8704-d5bbbb68fc45" name="Default Changelist" comment="" />
+      <created>1586254196473</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1586254196473</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="138" y="0" width="1084" height="728" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1586254700918">
+      <screen x="0" y="0" width="1360" height="728" />
+    </state>
+    <state x="138" y="0" width="1084" height="728" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1360.728@0.0.1360.728" timestamp="1586254700918" />
+    <state x="525" y="256" width="300" height="225" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1586254394170">
+      <screen x="0" y="0" width="1360" height="728" />
+    </state>
+    <state x="525" y="256" width="300" height="225" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1360.728@0.0.1360.728" timestamp="1586254394170" />
+    <state x="463" y="122" width="424" height="493" key="FileChooserDialogImpl" timestamp="1586254856057">
+      <screen x="0" y="0" width="1360" height="728" />
+    </state>
+    <state x="463" y="122" width="424" height="493" key="FileChooserDialogImpl/0.0.1360.728@0.0.1360.728" timestamp="1586254856057" />
+    <state width="1318" height="169" key="GridCell.Tab.0.bottom" timestamp="1586254572624">
+      <screen x="0" y="0" width="1360" height="728" />
+    </state>
+    <state width="1318" height="169" key="GridCell.Tab.0.bottom/0.0.1360.728@0.0.1360.728" timestamp="1586254572624" />
+    <state width="1318" height="169" key="GridCell.Tab.0.center" timestamp="1586254572624">
+      <screen x="0" y="0" width="1360" height="728" />
+    </state>
+    <state width="1318" height="169" key="GridCell.Tab.0.center/0.0.1360.728@0.0.1360.728" timestamp="1586254572624" />
+    <state width="1318" height="169" key="GridCell.Tab.0.left" timestamp="1586254572623">
+      <screen x="0" y="0" width="1360" height="728" />
+    </state>
+    <state width="1318" height="169" key="GridCell.Tab.0.left/0.0.1360.728@0.0.1360.728" timestamp="1586254572623" />
+    <state width="1318" height="169" key="GridCell.Tab.0.right" timestamp="1586254572624">
+      <screen x="0" y="0" width="1360" height="728" />
+    </state>
+    <state width="1318" height="169" key="GridCell.Tab.0.right/0.0.1360.728@0.0.1360.728" timestamp="1586254572624" />
+    <state x="292" y="64" width="765" height="608" key="NewModule_or_Project.wizard" timestamp="1586254866454">
+      <screen x="0" y="0" width="1360" height="728" />
+    </state>
+    <state x="292" y="64" width="765" height="608" key="NewModule_or_Project.wizard/0.0.1360.728@0.0.1360.728" timestamp="1586254866454" />
+    <state x="62" y="68" width="1225" height="600" key="new project wizard" timestamp="1586254727853">
+      <screen x="0" y="0" width="1360" height="728" />
+    </state>
+    <state x="62" y="68" width="1225" height="600" key="new project wizard/0.0.1360.728@0.0.1360.728" timestamp="1586254727853" />
+  </component>
+</project>
